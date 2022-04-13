@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+#displayNamesWithComma{
+    background-color: lightblue;
+    border-radius: 30px;
+}
+
+#displayNameWithoutComma{
+    background-color:lightgreen;
+    border-radius: 30px;
+}
+#sortButton{
+    display: none;
+}
